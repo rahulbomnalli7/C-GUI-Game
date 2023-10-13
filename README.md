@@ -25,11 +25,11 @@ Before running the game, you'll need to set up your development environment and 
    - Navigate to the directory where your code is saved.
    - Compile the code using the following command:
      ```
-     gcc -o rps_game rps_game.c `pkg-config --cflags --libs gtk+-3.0`
+     gcc -o rockpaper rockpaper.c `pkg-config --cflags --libs gtk+-3.0`
      ```
    - Run the game:
      ```
-     rps_game.exe
+     rockpaper.exe
      ```
 
 ### Linux
@@ -66,4 +66,3 @@ Before running the game, you'll need to set up your development environment and 
 
 Have fun playing Rock, Paper, Scissors!
 
-## How was the gameplay!!!
